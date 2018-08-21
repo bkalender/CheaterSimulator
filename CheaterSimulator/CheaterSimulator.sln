@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{4B58C983-3D87-11A1-7777-5C63B26DB86A}") = "CheaterSimulator", "Assembly-CSharp-firstpass.csproj", "{478E16BB-F0B8-C88C-A222-8132B8893AC0}"
+EndProject
+Project("{4B58C983-3D87-11A1-7777-5C63B26DB86A}") = "CheaterSimulator", "Assembly-CSharp.csproj", "{5A181081-9795-9A03-1F13-24487732E87F}"
+EndProject
+Project("{4B58C983-3D87-11A1-7777-5C63B26DB86A}") = "CheaterSimulator", "Assembly-CSharp-Editor.csproj", "{CA1DF024-D540-A99C-41FD-DED20E3CD9FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{478E16BB-F0B8-C88C-A222-8132B8893AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{478E16BB-F0B8-C88C-A222-8132B8893AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{478E16BB-F0B8-C88C-A222-8132B8893AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{478E16BB-F0B8-C88C-A222-8132B8893AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A181081-9795-9A03-1F13-24487732E87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A181081-9795-9A03-1F13-24487732E87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A181081-9795-9A03-1F13-24487732E87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A181081-9795-9A03-1F13-24487732E87F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA1DF024-D540-A99C-41FD-DED20E3CD9FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1DF024-D540-A99C-41FD-DED20E3CD9FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1DF024-D540-A99C-41FD-DED20E3CD9FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1DF024-D540-A99C-41FD-DED20E3CD9FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

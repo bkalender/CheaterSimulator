@@ -1,0 +1,26 @@
+Sinav tipleri:
+
+>Sallama seçenegi olacak
+>Expected Grade sekmesi olacak
+>Hoca tipleri olacak
+-Eski sinavlara benzer soran
+-Islemsiz soruya puan vermeyen
+-Kopyaya tamamen karsi olan
+-Cheat sheet'e izin veren
+-Ne soracagi belli olan (10 soru verip 3ünü soracagim diyen vs)
+
+Test
+-Bos birakilan sorular 1 puan normal sorular 3 puan.
+-3 yanlis 1 dogruyu götürebilir
+
+Klasik
+-Tam puan almak için hem dogru cevap hem de dogru islem lazim.
+--Kopya çekerken sadece cevabi alirsa +15 Detection
+---Hem cevabi hem islemi almasi daha uzun sürecek ancak kagidin notunu arttiracak
+-Sadece dogru islem yeterli.
+
+Sürpriz faktörü:
+Main: Expected Grade faktöründen +/- sapma.
+
+>Kopya çektigimiz çocuk yanlis yapmis olabilir
+>Hoca profilini yanlis ögrenmis/duymus/ tahmin etmis olabilir (Islemsiz soruya 0 verme, çok puan kirma vs)
